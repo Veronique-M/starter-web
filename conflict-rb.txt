@@ -1,3 +1,5 @@
 ligne1
 ligne2
+ligne3 modifi�e
+ligne3 modifiée dans master
 ligne3 modifiée
